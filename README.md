@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Fathima Rana 👋
 
-<!--
-**fathimaranaaa/fathimaranaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech CSE Graduate | Python Full Stack Developer
 
-Here are some ideas to get you started:
+I'm passionate about building web applications and solving real-world problems through technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Python Full Stack Development
+- 💻 Interested in Python, JavaScript, React, and databases
+- 🚀 Building projects to improve my development skills
+- 🎯 Looking for entry-level Software Developer opportunities
+
+## 🛠️ Technical Skills
+
+- **Languages:** Python, JavaScript, SQL
+- **Frontend:** HTML, CSS, Bootstrap, React
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, GitHub, VS Code
+
+## 🚀 Featured Projects
+
+- Student Management System
+- Online Car Rental Website
+- SkillSpeak – AI Interview Preparation App
+
